@@ -1,8 +1,11 @@
 # unit-4-game
 
 #Star Wars Game
+
 Star Wars Themed role playing game created with JavaScript, jQuery, HTML and CSS
+
 #Game Logic
+
 •	When the game starts, the player will choose a character by clicking on the fighter's picture. The player will fight as that character for the rest of the game.
 
 <img src = "assets/images/stg.png" width = "400" height = " 300">
